@@ -1,0 +1,37 @@
+<resources>
+    <dimen name="app_bar_height">180dp</dimen>
+    <dimen name="fab_margin">16dp</dimen>
+    <dimen name="text_margin">16dp</dimen>
+    <dimen name="toolbar_icon_dimension">30dp</dimen>
+    <dimen name="toolbar_icon_margin">10dp</dimen>
+    <dimen name="image_dimension">80dp</dimen>
+    <dimen name="button_width">155dp</dimen>
+    <dimen name="buttons_layout_height">30dp</dimen>
+    <dimen name="line_width">340dp</dimen>
+    <dimen name="line_height">1dp</dimen>
+    <dimen name="line_margin_top">15dp</dimen>
+    <dimen name="line_margin_bottom">2dp</dimen>
+    <dimen name="icon_layout_width">85dp</dimen>
+    <dimen name="icon_width">60dp</dimen>
+    <dimen name="icon_height">60dp</dimen>
+    <dimen name="icon_bottom_text_height">40dp</dimen>
+    <dimen name="icon_bottom_text_size">11sp</dimen>
+    <dimen name="rating_white_star_width">7dp</dimen>
+    <dimen name="rating_white_star_height">13dp</dimen>
+    <dimen name="rating_white_star_padding_bottom">7dp</dimen>
+    <dimen name="icn_text_size">13sp</dimen>
+    <dimen name="icn_text_margin_top">4dp</dimen>
+    <dimen name="text_size">17sp</dimen>
+    <dimen name="block_text_head_size">15dp</dimen>
+    <dimen name="watch_read_dimention">30dp</dimen>
+    <dimen name="horizontal_scroll_image_width">132dp</dimen>
+    <dimen name="horizontal_scroll_image_height">231dp</dimen>
+    <dimen name="horizontal_scroll_margin_end">7dp</dimen>
+    <dimen name="padding">9dp</dimen>
+    <dimen name="big_raiting_val_size">50dp</dimen>
+    <dimen name="app_rating_reviews_paddings">10dp</dimen>
+    <dimen name="Button_margin_left">10dp</dimen>
+    <dimen name="image_layout_width">10dp</dimen>
+
+
+</resources>

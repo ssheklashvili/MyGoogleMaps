@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:orientation="vertical"
+    android:gravity="center"
+    android:padding="@dimen/padding"
+    >
+
+
+    <TextView
+        android:layout_width="@dimen/icon_width"
+        android:layout_height="@dimen/icon_height"
+        android:background="@drawable/ic_billion"
+        android:text="@string/downloads_num"
+        android:textColor="@color/black"
+        android:textSize="25sp"
+        android:gravity="center"
+        android:paddingBottom="5dp"
+        />
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/downloads_text"
+        android:textSize="@dimen/icn_text_size"
+        android:layout_marginTop="@dimen/icn_text_margin_top"
+        android:textColor="@color/black"
+        />
+
+
+    <!--<FrameLayout-->
+                <!--android:layout_width="@dimen/icon_width"-->
+                <!--android:layout_height="@dimen/icon_height"-->
+                <!--android:layout_gravity="center"-->
+                <!--android:background="@drawable/ic_billion"-->
+                <!--&gt;-->
+                <!--<TextView-->
+                    <!--android:layout_width="wrap_content"-->
+                    <!--android:layout_height="wrap_content"-->
+                    <!--android:text="@string/downloads_num"-->
+                    <!--android:textSize="20dp"-->
+                    <!--android:layout_gravity="center"-->
+                    <!--android:textColor="@color/black"-->
+                    <!--/>-->
+            <!--</FrameLayout>-->
+            <!--<TextView-->
+                <!--android:layout_width="match_parent"-->
+                <!--android:layout_height="@dimen/icon_bottom_text_height"-->
+                <!--android:text="@string/downloads_text"-->
+                <!--android:textSize="@dimen/icon_bottom_text_size"-->
+                <!--android:gravity="center"-->
+                <!--android:textColor="@color/black"/>-->
+
+
+
+
+
+</LinearLayout>
